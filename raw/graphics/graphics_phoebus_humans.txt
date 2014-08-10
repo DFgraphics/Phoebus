@@ -21,7 +21,7 @@ graphics_phoebus_humans
 	[THIEF:PHOEBUS_H:10:0:AS_IS:DEFAULT]
 	[MASTER_THIEF:PHOEBUS_H:11:0:AS_IS:DEFAULT]
 
-1 - Monarchs & Priests
+1 - Monarchs & Priests (Monarchs by Meph)
 	[BARON:PHOEBUS_H:0:1:AS_IS:DEFAULT]
 	[BARON_CONSORT:PHOEBUS_H:1:1:AS_IS:DEFAULT]
 	[COUNT:PHOEBUS_H:2:1:AS_IS:DEFAULT]
