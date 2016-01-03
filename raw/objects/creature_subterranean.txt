@@ -1325,7 +1325,7 @@ creature_subterranean
 	[DESCRIPTION:A serpent made of pure fire which can inject liquid fire as venom.]
 	[NAME:fire snake:fire snakes:fire snake]
 	[CASTE_NAME:fire snake:fire snakes:fire snake]
-	[CREATURE_TILE:'{'][COLOR:6:0:1][ALTTILE:'}']]
+	[CREATURE_TILE:'{'][COLOR:6:0:1][ALTTILE:'}']
 	[PETVALUE:10]
 	[PET_EXOTIC]
 	[NATURAL]
