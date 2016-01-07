@@ -616,10 +616,6 @@ graphics_phoebus_animals
 	[DEFAULT:PHOEBUS_ANIMALS:4:23:AS_IS:DEFAULT]
 	[CHILD:PHOEBUS_ANIMALS:5:23:AS_IS:DEFAULT]
 
-[CREATURE_GRAPHICS:TOAD_GIANT]
-	[DEFAULT:PHOEBUS_ANIMALS:4:23:AS_IS:DEFAULT]
-	[CHILD:PHOEBUS_ANIMALS:5:23:AS_IS:DEFAULT]
-
 // *****************************************************************
 // GIANT VERMIN
 // *****************************************************************
