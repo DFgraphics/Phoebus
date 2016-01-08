@@ -8,14 +8,6 @@ circumstances, unpack a new DF on top of an older one.
 
 Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 
-Always read the file carefully, including the comments.
-
-In general, you can copy savegames and tilesets from older DF
-versions, but you should not copy anything else.  You should not, under any
-circumstances, unpack a new DF on top of an older one.
-
-
-Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 [AUTOSAVE:YEARLY]
 [AUTOBACKUP:NO]
 [AUTOSAVE_PAUSE:YES]
@@ -105,32 +97,32 @@ Track tiles.  I at the end inverts the material colors.
 [TRACK_S:210]
 [TRACK_E:198]
 [TRACK_W:181]
-[TRACK_NS:179]
-[TRACK_NE:192]
-[TRACK_NW:217]
-[TRACK_SE:218]
-[TRACK_SW:191]
-[TRACK_EW:196]
-[TRACK_NSE:195]
-[TRACK_NSW:180]
-[TRACK_NEW:193]
-[TRACK_SEW:194]
-[TRACK_NSEW:158]
-[TRACK_RAMP_N:30]
-[TRACK_RAMP_S:30]
-[TRACK_RAMP_E:30]
-[TRACK_RAMP_W:30]
-[TRACK_RAMP_NS:30]
-[TRACK_RAMP_NE:30]
-[TRACK_RAMP_NW:30]
-[TRACK_RAMP_SE:30]
-[TRACK_RAMP_SW:30]
-[TRACK_RAMP_EW:30]
-[TRACK_RAMP_NSE:30]
-[TRACK_RAMP_NSW:30]
-[TRACK_RAMP_NEW:30]
-[TRACK_RAMP_SEW:30]
-[TRACK_RAMP_NSEW:30]
+[TRACK_NS:179I]
+[TRACK_NE:192I]
+[TRACK_NW:217I]
+[TRACK_SE:218I]
+[TRACK_SW:191I]
+[TRACK_EW:196I]
+[TRACK_NSE:195I]
+[TRACK_NSW:180I]
+[TRACK_NEW:193I]
+[TRACK_SEW:194I]
+[TRACK_NSEW:158I]
+[TRACK_RAMP_N:30I]
+[TRACK_RAMP_S:30I]
+[TRACK_RAMP_E:30I]
+[TRACK_RAMP_W:30I]
+[TRACK_RAMP_NS:30I]
+[TRACK_RAMP_NE:30I]
+[TRACK_RAMP_NW:30I]
+[TRACK_RAMP_SE:30I]
+[TRACK_RAMP_SW:30I]
+[TRACK_RAMP_EW:30I]
+[TRACK_RAMP_NSE:30I]
+[TRACK_RAMP_NSW:30I]
+[TRACK_RAMP_NEW:30I]
+[TRACK_RAMP_SEW:30I]
+[TRACK_RAMP_NSEW:30I]
 
 Tiles for the parts of trees.
 
@@ -247,7 +239,7 @@ You can have your dwarves start/arrive without any labor types enabled here by s
 
 [SET_LABOR_LISTS:SKILLS]
 
-You can set the maximum population of your fortress here.  Keep in mind that your population must be at least 80 to get a king and 100 to obtain the current game features.
+You can set the maximum population of your fortress here.  Keep in mind that your population must be at least 80 to get a king and 100 to obtain the current game features.  The strict cap also stops fort births.  Both caps can be violated by a few special cases, like the arrival of the monarch if you qualify.
 
 [POPULATION_CAP:120]
 [STRICT_POPULATION_CAP:220]
