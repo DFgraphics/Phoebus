@@ -8,7 +8,7 @@ circumstances, unpack a new DF on top of an older one.
 
 Change this to turn sound off.
 
-[SOUND:NO]
+[SOUND:YES]
 
 The sound volume runs from 0 (off) to 255 (full).  You can set the volume from the ESC options menu as well.
 
@@ -16,7 +16,7 @@ The sound volume runs from 0 (off) to 255 (full).  You can set the volume from t
 
 Change this to skip the wonderful intro movies.
 
-[INTRO:NO]
+[INTRO:YES]
 
 This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or PROMPT.
 
@@ -82,7 +82,7 @@ Change this to YES to keep the DF window on top of your other windows.
 
 Change this to YES if you want to see an FPS counter at the top left.
 
-[FPS:YES]
+[FPS:NO]
 
 Use this to set the maximum frame rate during play.  The movies are always capped at 100.  A frame in this case is not graphical but related to the movement speed of a creature.  A healthy, unencumbered dwarven peasant takes one step every 10 frames.
 

@@ -1,4 +1,5 @@
 graphics_kafine_animals
+#Note: Lines with parenthesis instead of brackets are commented out. These creatures seem to all be instead defined in graphics_nwkohaku_birds#
 
 [OBJECT:GRAPHICS]
 
@@ -91,7 +92,7 @@ graphics_kafine_animals
 (CREATURE_GRAPHICS:BIRD_RAVEN)
 	(DEFAULT:KAFINE_ANIMALS:0:11:AS_IS:DEFAULT)
 	(CHILD:KAFINE_ANIMALS:1:11:AS_IS:DEFAULT)
-(CREATURE_GRAPHICS:GIANT_RAVE)
+(CREATURE_GRAPHICS:GIANT_RAVEN)
 	(DEFAULT:KAFINE_ANIMALS:0:11:AS_IS:DEFAULT)
 	(CHILD:KAFINE_ANIMALS:1:11:AS_IS:DEFAULT)
 
