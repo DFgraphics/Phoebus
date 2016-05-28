@@ -1,0 +1,16 @@
+graphics_jecowa_creatures
+
+#feel free to replace these if you've got something better#
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:JECOWA_CREATURES]
+	[FILE:Jecowa/jecowa_creatures.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:1:1]
+
+!CREATURE_GRAPHICS:TOAD_GIANT!
+	!CHILD:JECOWA_CREATURES:0:0:AS_IS:DEFAULT!
+
+[CREATURE_GRAPHICS:POND_TURTLE_MAN]
+	[CHILD:JECOWA_CREATURES:1:0:AS_IS:DEFAULT]
