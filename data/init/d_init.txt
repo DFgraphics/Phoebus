@@ -268,7 +268,7 @@ If you don't like the ,.`' ground, try setting this to NO.  The ground will turn
 
 If you'd like your engravings to start off looking the same (you can toggle them on individual later), set this to YES.
 
-[ENGRAVINGS_START_OBSCURED:NO]
+[ENGRAVINGS_START_OBSCURED:YES]
 
 If you get annoyed by seeing items like *<*sword*>* you can
 get rid of the outside ** by setting this to NO.
@@ -277,7 +277,7 @@ get rid of the outside ** by setting this to NO.
 
 Set this to YES to display fluids as numbers indicating depth.
 
-[SHOW_FLOW_AMOUNTS:NO]
+[SHOW_FLOW_AMOUNTS:YES]
 
 If you'd prefer to leave the history behind every engraving for your adventurers to discover, then set this to NO.
 
