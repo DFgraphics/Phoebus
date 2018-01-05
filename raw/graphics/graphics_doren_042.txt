@@ -5,7 +5,7 @@ graphics_phoebus_dwarves
 [TILE_PAGE:PHOEBUS_DD]
 	[FILE:doren/042.png]
 	[TILE_DIM:16:16]
-	[PAGE_DIM:12:22]
+	[PAGE_DIM:12:5]
 
 [CREATURE_GRAPHICS:DWARF]
 0 - !!Science!!
