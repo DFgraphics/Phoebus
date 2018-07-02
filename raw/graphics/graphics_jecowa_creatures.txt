@@ -5,7 +5,7 @@ graphics_jecowa_creatures
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:JECOWA_CREATURES]
-	[FILE:Jecowa/jecowa_creatures.png]
+	[FILE:jecowa/jecowa_creatures.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:1:1]
 
