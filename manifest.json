@@ -1,9 +1,9 @@
 {
     "author": "Phoebus",
     "url": "https://github.com/DFgraphics/Phoebus",
-    "content_version": "2018-03-14",
-    "df_min_version": "0.44.07",
-    "df_max_version": "0.44.11",
+    "content_version": "2020-01-30",
+    "df_min_version": "0.47.01",
+    "df_max_version": "0.47.01",
     "folder_prefix": "Phoebus",
     "title": "Phoebus 16x",
     "tooltip": "Neither stylised nor ornate, with a sprite for everything."
