@@ -734,4 +734,7 @@
 [OVERRIDE:200:T:TreeDeadCapWallSW:4:40::]
 [OVERRIDE:186:T:TreeDeadCapWallW:4:24::]
 
-
+[TILESET:_jecoverides.png:_jecoverides.png]
+[OVERRIDE:42:I:TOOL:TOOL:ITEM_TOOL_DIE:5:2] #die
+[OVERRIDE:32:I:TOOL:TOOL:ITEM_TOOL_ALTAR:5:6] #altar
+[OVERRIDE:23:B:91:OfferingPlace::5:6] #altar

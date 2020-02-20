@@ -74,7 +74,7 @@ Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 
 Switches truetype on whenever the vertical tile size is this many pixels or larger.  You may also use YES/NO to force it on/off.  Turning it off may provide a minor speed boost (using font small enough that it doesn't activate won't).
 
-[TRUETYPE:YES]
+[TRUETYPE:NO]
 
 Change this to YES to keep the DF window on top of your other windows.
 
