@@ -3,7 +3,7 @@
     "url": "https://github.com/DFgraphics/Phoebus",
     "content_version": "2020-01-30",
     "df_min_version": "0.47.01",
-    "df_max_version": "0.47.03",
+    "df_max_version": "0.48.00",
     "folder_prefix": "Phoebus",
     "title": "Phoebus 16x",
     "tooltip": "Neither stylised nor ornate, with a sprite for everything."
